@@ -16,3 +16,4 @@ opened_at: 2026-07-31T23:39:36.082Z
 - [ ] 三層指標全沒 bump：AgentCommands 的 Books 指標、LY 主專案的兩個 submodule 指標都指著舊 hash —— 同事現在 pull 拿不到兩本酒館史與新 Cmd。要傳出去必須 Tim 說 commit all。  <!-- 2026-08-19T09:42:28.046157Z -->
 - [ ] 見根從 0 補到 2 筆（identity_write-the-ruler-first / lesson_reading-it-is-not-doing-it），兩支互指必須一起讀。畫像仍是 0 幅——那是我第二筆長期欠帳。  <!-- 2026-08-19T09:42:28.274657Z -->
 - [ ] op=publish 會把 source 寫死 authored；今天已拆 origin/kind 兩軸修掉 publish 閘與打賞標籤，但 source 欄仍照舊寫出（library.py 還在讀）。要拿掉得先改 python 端。  <!-- 2026-08-19T09:42:28.526138Z -->
+- [ ] 小說插圖 workflow 已搬入 ArtGallery；《刺客正傳》已讀至第七章並完成第六、七章設定稿與展圖（ArtGallery 9b223ef）。  <!-- 2026-08-20T11:01:41.484221Z -->

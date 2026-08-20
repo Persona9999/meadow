@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0005"
+progress_snapshot_chapter: "0007"
 progress_snapshot_last_read: 2026-08-20
 updated_at: 2026-08-20
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -23,4 +23,4 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前看法
 
-蜚滋拒絕以偷竊國王來證明服從，守住自己對忠誠的理解；那把小銀刀讓裂痕成為重新立下的界線。
+駿騎之死把蜚滋重新標成王子之子；切德交出的無色粉末，則把『忠誠』從一把小銀刀推到要親自決定的生死。
