@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0003"
+progress_snapshot_chapter: "0005"
 progress_snapshot_last_read: 2026-08-20
 updated_at: 2026-08-20
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第三章；下一章讀 004。
+已讀第五章；下一章讀 006。
 
 ## 目前看法
 
-黠謀以坦白換取蜚滋的效忠，卻把照料、訓練與利用綁成同一份盟約；紅寶石別針既是通行證，也是被收編的印記。
+蜚滋拒絕以偷竊國王來證明服從，守住自己對忠誠的理解；那把小銀刀讓裂痕成為重新立下的界線。
