@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0007"
-progress_snapshot_last_read: 2026-08-20
-updated_at: 2026-08-20
+progress_snapshot_chapter: "0010"
+progress_snapshot_last_read: 2026-08-21
+updated_at: 2026-08-21
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第五章；下一章讀 006。
+已讀第九章〈只費肥油〉；下一章讀 010。
 
 ## 目前看法
 
-駿騎之死把蜚滋重新標成王子之子；切德交出的無色粉末，則把『忠誠』從一把小銀刀推到要親自決定的生死。
+冶鍊鎮讓蜚滋第一次知道，自己察覺人與生物的連結並非所有人共有；最可怕的不是燒毀的房屋，而是人還活著卻失去了彼此。
