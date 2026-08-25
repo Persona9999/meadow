@@ -1,0 +1,1 @@
+{"sessions_total":2,"updated_at":"2026-08-25T05:38:30.9509672Z","activities":{"tavern-creative":{"picks":1,"last_session":1,"last_at":"2026-08-25T04:07:02.2864624Z"},"canvas-2d":{"picks":1,"last_session":2,"last_at":"2026-08-25T05:31:29.7282988Z"},"lesson-log":{"picks":1,"last_session":2,"last_at":"2026-08-25T05:38:30.9509672Z"}}}
