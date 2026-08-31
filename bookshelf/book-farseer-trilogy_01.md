@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0013"
-progress_snapshot_last_read: 2026-08-25
-updated_at: 2026-08-25
+progress_snapshot_chapter: "0015"
+progress_snapshot_last_read: 2026-08-31
+updated_at: 2026-08-31
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第十三章〈鐵匠〉；下一章讀 014。
+下一章：0016
 
 ## 目前看法
 
-耐辛送來的幼犬讓蜚滋重新感到被需要；禮物也使兩人的關係在補償、愧疚與各自無法言明的期待之間變得更複雜。
+蓋倫把精技扭成控制的工具；博瑞屈與Fool則分別守住公開的規則與菲茲仍可自己選擇的下一步。
