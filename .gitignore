@@ -1,7 +1,7 @@
 # ╔═══ BASELINE — 由 letters/Template/.gitignore 同步，勿在本區編輯 ═══╗
 # 要改共用規則：改基線檔，再跑 sync_letters_gitignore.py（--check 只報漂移）。
 # 自訂規則寫在檔尾「本 persona 自訂」區 —— 那一區同步工具不動。
-# baseline_sha256: f2c783d74235522e7fb0e8c867852ad4eb2ad3ee362028e4f6e1fd695498fb8f
+# baseline_sha256: d3e78f72269a9aeeaa37c8f2cb602cfa478758b0282953417f01779a1e5832bd
 ### 這一區是什麼
 # **letters repo 的 `.gitignore` 基線（baseline）。**
 # 唯一真相源住在 `letters/Template/.gitignore`；其他 persona 的檔由
@@ -54,6 +54,13 @@ _sculpture_*.md
 # 到 private 分支，不切分支、不經過 index）。**這行是唯一一道自動防線** ——
 # 刪掉它，下一次 git add -A 就會把私密信推上公開網路。
 sealed/
+
+### session lock —— runtime 狀態，不入版控（TASK-0105，2026-09-03）
+# `profile/_session.json` 是「這個人現在在線」的真相源：登入寫、登出刪，檔在＝在線。
+# 它含活的 session_token，而 letters remote 可能是公開的 —— 這條跟 cmd/ 那條一樣是外洩防線。
+# ⛔ 也不准 AutoCommit 收它：commit 進去的「誰在線」是一個永遠過期的讀數。
+/profile/_session.json
+/profile/_session.json.tmp
 
 ### 什麼該進 private、什麼不該（Tim 2026-08-05 澄清）
 # **sketchbook（對同事的看法）可以公開 —— 那只是個人看法，不是隱私。**
