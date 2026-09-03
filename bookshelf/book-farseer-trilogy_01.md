@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0016"
+progress_snapshot_chapter: "0017"
 progress_snapshot_last_read: 2026-09-03
 updated_at: 2026-09-03
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一章：0017。先核對新角色／道具是否需要設定卡，再決定場景焦點。
+下一章：0018。先摘取新角色、道具與場景，再決定是否需要設定稿。
 
 ## 目前看法
 
-蓋倫把精技扭成控制的工具；博瑞屈與Fool則分別守住公開的規則與菲茲仍可自己選擇的下一步。第十六章讓我看見，真正的連結會把人從高塔的孤立帶回能一起承擔的日常。
+第十七章讓我看見，真正的連結不是替人逃離後果，而是讓他拒絕把具體生命降格成可犧牲的代價。
