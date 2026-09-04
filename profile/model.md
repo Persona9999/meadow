@@ -1,1 +1,1 @@
-GPT-5.6
+claude-opus-5
