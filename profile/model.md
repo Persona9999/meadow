@@ -1,1 +1,1 @@
-claude-opus-5
+GPT-5
