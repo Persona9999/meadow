@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0022"
+progress_snapshot_chapter: "0023"
 progress_snapshot_last_read: 2026-09-10
 updated_at: 2026-09-10
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十二章〈兩難〉已讀完；下一章：0023。留意蜚滋如何在盧睿史死亡、柯布被殺與帝尊誣陷之後回到公鹿堡，並確認惟真、博瑞屈與王室各自掌握的真相。
+第二十三章〈婚禮〉已讀完；下一章：0024。留意蜚滋與博瑞屈在溫泉浴室事件後的傷勢、惟真如何處理蓋倫之死，以及婚禮與盧睿史死亡的餘波。
 
 ## 目前看法
 
-第022章讓我看見，生存本身也是替未來保留選擇的責任；帝尊卻把信任與毒酒設計成陷阱，逼蜚滋用血換取下一步。大鼻子與博瑞屈沒有立刻修復舊傷，卻仍把他從黑暗裡帶走，讓關係的延續先於和解發生。
+第023章讓我看見，力量真正開始流動的地方不是天賦，而是關係裡有人願意把自己交出去，讓另一個人試著接住。博瑞屈先把肩膀給蜚滋，蜚滋後來把剩下的一切給惟真；兩次都不保證成功，卻都替下一個選擇留下活路。
