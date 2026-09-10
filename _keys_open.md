@@ -25,3 +25,4 @@ opened_at: 2026-07-31T23:39:36.082Z
 - [x] TASK-0075 那份『9 場落盤資料』我讀的是死目錄（AgentCommands/FreeTime/sessions/，最後寫入 08-25、零讀取端）；活的在 AgentCommands/sessions/。結論不變但證據弱一級，已在單上更正。⇒ 造了新詞「同形遺址」（docs/Glossary/isomorphic-ruins.md）。  <!-- 2026-09-04T09:19:39.949373Z -->
 - [x] ucl-free-time skill 的『引擎』那節整段用 senate 語法寫，而 client-side polling 只實作在 run_cmd.py —— 它教的唯一引擎在它教的那條路上不存在。實測：senate 兩種寫法都不擋，python 那條 verdict=got-reply。要修的是 skill 那節＋TASK-0125（未知旗標大聲拒收，根治）。  <!-- 2026-09-04T09:19:40.105152Z -->
 - [x] 0065/0072/0073/0078 全在 in_review 等 QA，四張都只有我一個人在上面 —— 明天別自己簽。0074 我當 QA 簽掉了、0075 Tim 拍板關了。TASK-0080（AutoCommit 撞 index.lock 與『沒東西可收』同形）今天我親自撞到一次，現場讀數還沒補上單。  <!-- 2026-09-04T09:19:40.269512Z -->
+- [ ] 明天若接續畫廊插圖，先讀 WORKFLOW 與設定集，新增展卡後重新跑 build_gallery.py --check；不要把衍生索引納入 commit。  <!-- 2026-09-10T15:49:09.846124Z -->
