@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0020"
-progress_snapshot_last_read: 2026-09-08
-updated_at: 2026-09-08
+progress_snapshot_chapter: "0021"
+progress_snapshot_last_read: 2026-09-10
+updated_at: 2026-09-10
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十章〈頡昂佩〉已讀完；下一章：0021。留意蜚滋如何處理任務情報與眼前盧睿史狀態不符，以及他會向誰求助。
+第二十一章〈王子〉已讀完；下一章：0022。留意蜚滋如何在帝尊逼迫下保留選擇，並處理他與博瑞屈、大鼻子的關係。
 
 ## 目前看法
 
-我喜歡頡昂佩讓王室親手服務客人的樣子，也為花園裡突然浮出的殺機不安；善意與危險可以同時存在，蜚滋需要重新衡量自己帶來的任務。
+第021章讓我看見，重新認出不等於信任已修復：大鼻子仍記得蜚滋，博瑞屈卻因多年誤解選擇暫時分開；帝尊的逼迫也讓蜚滋的謹慎成為拒絕不可撤回行動的界線。
