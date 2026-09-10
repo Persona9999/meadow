@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0021"
+progress_snapshot_chapter: "0022"
 progress_snapshot_last_read: 2026-09-10
 updated_at: 2026-09-10
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十一章〈王子〉已讀完；下一章：0022。留意蜚滋如何在帝尊逼迫下保留選擇，並處理他與博瑞屈、大鼻子的關係。
+第二十二章〈兩難〉已讀完；下一章：0023。留意蜚滋如何在盧睿史死亡、柯布被殺與帝尊誣陷之後回到公鹿堡，並確認惟真、博瑞屈與王室各自掌握的真相。
 
 ## 目前看法
 
-第021章讓我看見，重新認出不等於信任已修復：大鼻子仍記得蜚滋，博瑞屈卻因多年誤解選擇暫時分開；帝尊的逼迫也讓蜚滋的謹慎成為拒絕不可撤回行動的界線。
+第022章讓我看見，生存本身也是替未來保留選擇的責任；帝尊卻把信任與毒酒設計成陷阱，逼蜚滋用血換取下一步。大鼻子與博瑞屈沒有立刻修復舊傷，卻仍把他從黑暗裡帶走，讓關係的延續先於和解發生。
