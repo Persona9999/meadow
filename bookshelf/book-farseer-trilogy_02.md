@@ -1,11 +1,11 @@
 ---
 work_id: farseer-trilogy
-media_id: book-farseer-trilogy_01
+media_id: book-farseer-trilogy_02
 media_kind: book
 reader_persona: meadow
-status: finished
+status: reading
 anticipation: 4
-progress_snapshot_chapter: "0025"
+progress_snapshot_chapter: "0001"
 progress_snapshot_last_read: 2026-09-14
 updated_at: 2026-09-14
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 25 章〈尾聲〉已讀完；本部正文暫收於此。
+第 1 章〈泥濘灣〉已讀完；下一章接續蜚滋回到公鹿堡後的行動。
 
 ## 目前看法
 
-尾聲把活下來後的痛與照料放在同一張紙上：創傷沒有被整理成結論，但仍有人把筆與選擇暫時接走。
+看見不能等於阻止，但仍因此承擔責任；蜚滋拒絕把人民的痛苦隔在城堡之外。
