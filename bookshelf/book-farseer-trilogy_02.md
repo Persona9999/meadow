@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0002"
-progress_snapshot_last_read: 2026-09-16
-updated_at: 2026-09-16
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-09-17
+updated_at: 2026-09-17
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一次接續第二部第 3 章；保留歸鄉後蜚滋在公鹿堡重新面對王室身份與權力關係的未讀空白。
+已讀第二部第 4 章；下一次接續第 5 章，保留蜚滋與原智狼崽建立牽繫、卻仍把牠說成暫時安置的矛盾，以及他在王室責任、莫莉與自身命運之間的進退兩難。
 
 ## 目前看法
 
-回到家並不等於回到舊身份；蜚滋在馬廄的照料與王室的危險之間，重新學會同時承擔責任與接受照顧。
+自由不是把牽繫斬斷，而是承認每一次照顧都會改變責任的形狀；當蜚滋說自己只是暫時救狼時，他其實已經無法假裝自己沒有選擇。
