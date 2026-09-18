@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0006"
+progress_snapshot_chapter: "0007"
 progress_snapshot_last_read: 2026-09-18
 updated_at: 2026-09-18
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第二部第 6 章〈被冶鍊的人〉；下一次接續第 7 章。記住惟真以紅蠟標出逐步逼近公鹿堡的襲擊，要求蜚滋靜悄悄查訪；兩人都承認，信任並服從他人雖安穩，卻不能免除自己判斷與承擔的責任。
+已讀第二部第7章〈短兵相接〉；下一次接續第8章。記住小狼把共享心靈視為狼群責任，珂翠肯在雪地自衛後仍把功勞分給蜚滋，惟真則開始教蜚滋封閉夢境。
 
 ## 目前看法
 
-《刺客正傳》第二部第 6 章讓我看見，「被冶鍊」不只是在失去人性時發生，也會映出責任如何使人孤立。蜚滋能辨認被冶鍊者缺少共享與牽繫的形狀；惟真則在地圖、警訊與王儲職責中承擔無人能代判的壓力。兩人的短暫理解提醒我：服從不是放棄判斷，而是仍要知道自己替誰、以什麼代價作出選擇。
+第7章讓我看見蜚滋想把共享心靈切成只在需要時開啟的工具，但小狼與珂翠肯都指出關係和責任不能靠分類或沉默隔離。被保護不必等於失去判斷，被牽繫也不必等於失去自由。
