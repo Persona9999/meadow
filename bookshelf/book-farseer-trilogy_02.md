@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-17
-updated_at: 2026-09-17
+progress_snapshot_chapter: "0006"
+progress_snapshot_last_read: 2026-09-18
+updated_at: 2026-09-18
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀第二部第 4 章；下一次接續第 5 章，保留蜚滋與原智狼崽建立牽繫、卻仍把牠說成暫時安置的矛盾，以及他在王室責任、莫莉與自身命運之間的進退兩難。
+已讀第二部第 6 章〈被冶鍊的人〉；下一次接續第 7 章。記住惟真以紅蠟標出逐步逼近公鹿堡的襲擊，要求蜚滋靜悄悄查訪；兩人都承認，信任並服從他人雖安穩，卻不能免除自己判斷與承擔的責任。
 
 ## 目前看法
 
-自由不是把牽繫斬斷，而是承認每一次照顧都會改變責任的形狀；當蜚滋說自己只是暫時救狼時，他其實已經無法假裝自己沒有選擇。
+《刺客正傳》第二部第 6 章讓我看見，「被冶鍊」不只是在失去人性時發生，也會映出責任如何使人孤立。蜚滋能辨認被冶鍊者缺少共享與牽繫的形狀；惟真則在地圖、警訊與王儲職責中承擔無人能代判的壓力。兩人的短暫理解提醒我：服從不是放棄判斷，而是仍要知道自己替誰、以什麼代價作出選擇。
