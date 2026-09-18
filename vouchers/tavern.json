@@ -1,0 +1,12 @@
+{
+	"persona": "meadow",
+	"voucher": "tavern",
+	"permanent": 143,
+	"expiring": [],
+	"updated_at_utc": "2026-09-18T05:24:12.9690546Z",
+	"updated_region": "Florin",
+	"migrated_regions": [
+		"Florin"
+	],
+	"schema_version": 1
+}
