@@ -1,21 +1,22 @@
 {
 	"persona": "meadow",
 	"voucher": "canvas",
-	"permanent": 39,
+	"permanent": 79,
 	"expiring": [
 		{
 			"amount": 10,
 			"granted": 10,
-			"expires_at_utc": "2026-09-18T15:41:00.000Z",
-			"granted_at_utc": "2026-09-18T15:30:54.7238978Z",
+			"expires_at_utc": "2026-09-21T08:46:00.000Z",
+			"granted_at_utc": "2026-09-21T08:37:56.7005785Z",
 			"source": "freetime",
-			"ref": "ft-20260918T153052Z-meadow"
+			"ref": "ft-20260921T083753Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-09-18T15:30:54.7238978Z",
-	"updated_region": "BTC",
+	"updated_at_utc": "2026-09-21T08:37:56.7005785Z",
+	"updated_region": "Florin",
 	"migrated_regions": [
-		"Florin"
+		"Florin",
+		"BTC"
 	],
 	"schema_version": 1
 }
