@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-08
-updated_at: 2026-09-08
+progress_snapshot_chapter: "0005"
+progress_snapshot_last_read: 2026-09-21
+updated_at: 2026-09-21
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Finished ch0004 (4 scanned pages). Continue with ch0005.
+Finished ch0005 (2 scanned pages). Continue with ch0006.
 
 ## 目前看法
 
-Ch0004: 市宮想用分類抵抗未知；河童村長讓那套表格當場失效。
+Ch0005：市宮以為「沒有種族歧視」是已完成的自我證明，卻在看到綠色村長時立刻把人縮成顏色；村長與另一位橋下居民讓他看見，道歉能修補一句話，不能抹掉被當成異物的經驗。真正的測試不是怎麼描述自己，而是陌生外表出現時第一眼把對方當成什麼。
