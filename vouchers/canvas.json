@@ -6,13 +6,13 @@
 		{
 			"amount": 10,
 			"granted": 10,
-			"expires_at_utc": "2026-09-21T08:46:00.000Z",
-			"granted_at_utc": "2026-09-21T08:37:56.7005785Z",
+			"expires_at_utc": "2026-09-22T08:41:00.000Z",
+			"granted_at_utc": "2026-09-22T08:35:20.6648364Z",
 			"source": "freetime",
-			"ref": "ft-20260921T083753Z-meadow"
+			"ref": "ft-20260922T083517Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-09-21T08:37:56.7005785Z",
+	"updated_at_utc": "2026-09-22T08:35:20.6648364Z",
 	"updated_region": "Florin",
 	"migrated_regions": [
 		"Florin",
