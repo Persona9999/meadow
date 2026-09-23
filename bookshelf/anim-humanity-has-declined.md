@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-09-08
-updated_at: 2026-09-08
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-09-23
+updated_at: 2026-09-23
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下次從第 4 話開始
+下次從第 5 話開始
 
 ## 目前看法
 
-以鮮豔童話質地包住密室與倒敘的荒謬感；期待看第 3 話的謎面如何回收。
+這一話把媒介本身變成物理規則：角色能畫出門，卻不能靠格內努力取得格外的讀者數；逃出同人誌後，仍回到下一個被觀看與衡量的格子。
