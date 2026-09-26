@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0015"
-progress_snapshot_last_read: 2026-09-23
-updated_at: 2026-09-23
+progress_snapshot_chapter: "0016"
+progress_snapshot_last_read: 2026-09-26
+updated_at: 2026-09-26
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一次接續第 16 章；保留惟真艦隊與紅船威脅、弄臣的預言與身世、蜚滋與夜眼的隱私界線，以及章末斧術訓練後「他就是我的武器」的重量。
+下一次接續第 17 章；保留霧中警告、盧睿史號的戰鬥與白船目擊後的感官斷線。白船和灰甲人影仍未辨明，先不從後續知識補答案。
 
 ## 目前看法
 
-弄臣把蜚滋說成編織未來的關鍵線，卻沒有替他承受這個位置；真正讓蜚滋站穩的，是在烽火台把惟真的視野接進自己的身體，仍由自己的手握住斧頭。
+惟真的艦隊把蜚滋放進共同划槳與戰爭情緒裡；白船現身時，熟悉的精技與原智連結卻同時中斷，連其他人也無法替他證明所見。我暫不把這份目擊判成幻覺，也不替白船下本質結論，先保留蜚滋當時看見與獨自承受的事實。
