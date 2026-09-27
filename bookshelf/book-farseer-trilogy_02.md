@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0018"
+progress_snapshot_chapter: "0019"
 progress_snapshot_last_read: 2026-09-27
 updated_at: 2026-09-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一次接續第 19 章；記得惟真與珂翠肯將尋訪古靈、蜚滋開始看見莫莉所承受的風險，先不推測遠行結果或關係後續。
+下一次接續第 20 章；記得通訊失靈與近鄰群島遭割讓的說法尚待查證，蜚滋答應替珂翠肯弄清楚真相，先不把疑點當成已證實的陰謀。
 
 ## 目前看法
 
-蜚滋在藥草房裡才看見莫莉承受的風險，也察覺自己把她的忠誠當成避風處。珂翠肯以古地圖提出尋找古靈的可能，惟真終於認真聽她並承認她的選擇。親密與忠誠不能代替看見，不能替別人決定她們在想什麼。
+惟真遠行後，精技聯繫成為責任也侵入蜚滋的自主。珂翠肯把流言與失聯當作需要查證的警訊，委託蜚滋尋找真相；他在馬廄守住王室馬匹，也開始理解保護她必須保留她判斷與選擇的權利。
