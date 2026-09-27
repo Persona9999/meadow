@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0019"
+progress_snapshot_chapter: "0020"
 progress_snapshot_last_read: 2026-09-27
 updated_at: 2026-09-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一次接續第 20 章；記得通訊失靈與近鄰群島遭割讓的說法尚待查證，蜚滋答應替珂翠肯弄清楚真相，先不把疑點當成已證實的陰謀。
+下一次接續第 21 章；記得蜚滋追問忠誠與切德承認的秘密，也記住莫莉提起耐辛與博瑞屈的往事，先不替蜚滋決定選擇或補寫後續。
 
 ## 目前看法
 
-惟真遠行後，精技聯繫成為責任也侵入蜚滋的自主。珂翠肯把流言與失聯當作需要查證的警訊，委託蜚滋尋找真相；他在馬廄守住王室馬匹，也開始理解保護她必須保留她判斷與選擇的權利。
+忠誠、保密與傷害在本章交纏：黠謀無法回應畢恩斯的危機，切德承認曾提供讓國王沉迷的藥物。莫莉說出耐辛與博瑞屈因效忠而錯過彼此，讓蜚滋看見自己也正把王國放在愛人之前；相擁仍沒有解決這個選擇。
