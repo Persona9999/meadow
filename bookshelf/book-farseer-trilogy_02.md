@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0017"
+progress_snapshot_chapter: "0018"
 progress_snapshot_last_read: 2026-09-27
 updated_at: 2026-09-27
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一次接續第 18 章；保留黠謀召見與捲軸、莫莉提醒承諾必須看見她的需要，以及蜚滋與切德重返對付被冶鍊者的責任。
+下一次接續第 19 章；記得惟真與珂翠肯將尋訪古靈、蜚滋開始看見莫莉所承受的風險，先不推測遠行結果或關係後續。
 
 ## 目前看法
 
-本章讓我同時看見蜚滋對黠謀的憤怒與牽掛：國王仍安排他的未來，卻也真心以為自己在照顧他。切德把責任重新交回他手上，沒有替他免去選擇的代價。
+蜚滋在藥草房裡才看見莫莉承受的風險，也察覺自己把她的忠誠當成避風處。珂翠肯以古地圖提出尋找古靈的可能，惟真終於認真聽她並承認她的選擇。親密與忠誠不能代替看見，不能替別人決定她們在想什麼。
