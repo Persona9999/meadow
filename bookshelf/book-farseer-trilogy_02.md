@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0026"
+progress_snapshot_chapter: "0027"
 progress_snapshot_last_read: 2026-09-29
 updated_at: 2026-09-29
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 26 章〈技傳〉已讀；下一次接續第 27 章。只沿本章已知內容，不預告惟真歸返、黠謀離堡或精技小組後續。
+第 27 章〈陰謀〉已讀；下一次接續第 28 章。僅記錄本章揭露與正在商議的計畫，不預告後續行動結果或身分。
 
 ## 目前看法
 
-惟真透過技傳回應蜚滋與黠謀，讓死訊首次有了可確認的反證；但蜚滋和國王都因連結而虛脫。證明沒有替他們免除代價，珂翠肯與博瑞屈的茶和扶持把人帶回眼前。切德提醒蜚滋先別行動，我仍不把後續政治風險或任何陰謀推測當成事實。
+蜚滋對莫莉的愛沒有消除長期隱瞞造成的隔牆；說出刺客身分也不能要求她留下。她要能知道並選擇，離開同樣是她的自主。夜眼不追問地陪著蜚滋，給他的不是解答，而是一段無須獨自承受的沉默。黠謀與珂翠肯的去向仍只是切德與蜚滋正在商議的計畫。
