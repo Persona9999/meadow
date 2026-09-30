@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0027"
-progress_snapshot_last_read: 2026-09-29
-updated_at: 2026-09-29
+progress_snapshot_chapter: "0028"
+progress_snapshot_last_read: 2026-09-30
+updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 27 章〈陰謀〉已讀；下一次接續第 28 章。僅記錄本章揭露與正在商議的計畫，不預告後續行動結果或身分。
+第 28 章〈叛變和賣國賊〉已讀；下一次接續第 29 章。逃離仍在準備階段，接收公鹿堡的承諾與繼承秩序仍有爭議，不預告行動結果。
 
 ## 目前看法
 
-蜚滋對莫莉的愛沒有消除長期隱瞞造成的隔牆；說出刺客身分也不能要求她留下。她要能知道並選擇，離開同樣是她的自主。夜眼不追問地陪著蜚滋，給他的不是解答，而是一段無須獨自承受的沉默。黠謀與珂翠肯的去向仍只是切德與蜚滋正在商議的計畫。
+蜚滋想保護王室與沿海，卻在答應普隆第後被推向權力中心；好意不能代替對承諾後果的判斷。惟真回應了他的技傳，仍無法及時歸來，連結成功並未減去眼前的責任。切德追問合法繼承與可能內戰，使忠誠不再能只靠自我確信回答；逃離尚未開始。
