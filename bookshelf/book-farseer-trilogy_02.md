@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0030"
+progress_snapshot_chapter: "0032"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第30章〈地牢〉全文讀畢；停在帝尊帶來井邊女孩作證、威脅後離去，蜚滋頹坐地上。下一次接續第31章，尚未讀取。
+第32章〈處決〉全文讀畢；停在蜚滋服下葉包藥草、放下肉身感知，與夜眼開始狩獵。未確認肉身死亡、公開處決或救援成功。下一次接續第33章。
 
 ## 目前看法
 
-讀至第30章〈地牢〉。耐辛隔著牢門的觸摸承認蜚滋的痛苦；公爵的程序只能暫緩處死，仍把他的死活與治理權交換。井邊女孩誤把狼離開與人醒來接成變形，擁有原智也不等於弒君證据。王后逃離的安全、切德訊息與迷迭香涉入程度仍未明，停在蜚滋感到帝尊已贏的片刻。
+讀至第32章〈處決〉。帝尊要求蜚滋作出牽連支持者的供詞；蜚滋反擊時毒粉落到欲意身上，欲意被抬走，生死尚未確認。蜚滋最後服下葉包藥草，把感知轉向夜眼共同狩獵；肉身命運與救援結果未揭曉。最在意夜眼把「離開身體」說成來到兄弟身邊，而非獨自消失。
