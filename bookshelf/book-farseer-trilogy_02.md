@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0028"
+progress_snapshot_chapter: "0029"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 28 章〈叛變和賣國賊〉已讀；下一次接續第 29 章。逃離仍在準備階段，接收公鹿堡的承諾與繼承秩序仍有爭議，不預告行動結果。
+第29章〈俘虜〉全文讀畢；停在蜚滋被布雷德制服、遭擊昏。下一次接續第30章，尚未讀取。
 
 ## 目前看法
 
-蜚滋想保護王室與沿海，卻在答應普隆第後被推向權力中心；好意不能代替對承諾後果的判斷。惟真回應了他的技傳，仍無法及時歸來，連結成功並未減去眼前的責任。切德追問合法繼承與可能內戰，使忠誠不再能只靠自我確信回答；逃離尚未開始。
+讀至第29章〈俘虜〉。黠謀臨終承認蜚滋是自己的骨肉，並不能抵銷把他塑成工具的代價。蜚滋發現端寧與擇固抽取國王力量後，服藥復仇並遭制服；莫莉去向與逃離者的安全尚未確認。期待下一章釐清死亡之後，活人的責任與選擇如何延續。
