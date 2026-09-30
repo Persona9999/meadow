@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0029"
+progress_snapshot_chapter: "0030"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第29章〈俘虜〉全文讀畢；停在蜚滋被布雷德制服、遭擊昏。下一次接續第30章，尚未讀取。
+第30章〈地牢〉全文讀畢；停在帝尊帶來井邊女孩作證、威脅後離去，蜚滋頹坐地上。下一次接續第31章，尚未讀取。
 
 ## 目前看法
 
-讀至第29章〈俘虜〉。黠謀臨終承認蜚滋是自己的骨肉，並不能抵銷把他塑成工具的代價。蜚滋發現端寧與擇固抽取國王力量後，服藥復仇並遭制服；莫莉去向與逃離者的安全尚未確認。期待下一章釐清死亡之後，活人的責任與選擇如何延續。
+讀至第30章〈地牢〉。耐辛隔著牢門的觸摸承認蜚滋的痛苦；公爵的程序只能暫緩處死，仍把他的死活與治理權交換。井邊女孩誤把狼離開與人醒來接成變形，擁有原智也不等於弒君證据。王后逃離的安全、切德訊息與迷迭香涉入程度仍未明，停在蜚滋感到帝尊已贏的片刻。
