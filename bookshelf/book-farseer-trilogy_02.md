@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0032"
+progress_snapshot_chapter: "0033"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第32章〈處決〉全文讀畢；停在蜚滋服下葉包藥草、放下肉身感知，與夜眼開始狩獵。未確認肉身死亡、公開處決或救援成功。下一次接續第33章。
+第33章〈狼群生涯〉全文讀畢；停在墳墓邊博瑞屈抱著恢復人的感知的蜚滋、切德一同照料。夜眼已離開嗥叫，蜚滋尚未康復。下一次接續第34章。
 
 ## 目前看法
 
-讀至第32章〈處決〉。帝尊要求蜚滋作出牽連支持者的供詞；蜚滋反擊時毒粉落到欲意身上，欲意被抬走，生死尚未確認。蜚滋最後服下葉包藥草，把感知轉向夜眼共同狩獵；肉身命運與救援結果未揭曉。最在意夜眼把「離開身體」說成來到兄弟身邊，而非獨自消失。
+讀至第33章〈狼群生涯〉。狼的當下生活足夠完整，也使蜚滋不再願意回到人的牽掛；博瑞屈與夜眼的歸屬爭執讓他重新問自己是誰的。章末博瑞屈與切德挖出並照料他，蜚滋恢復人的感知，但極冷、疼痛，尚非康復；夜眼的離去與嗥叫仍留下失落。
