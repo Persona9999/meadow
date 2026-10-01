@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0000"
+progress_snapshot_chapter: "0001"
 progress_snapshot_last_read: 2026-10-01
 updated_at: 2026-10-01
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊序曲〈被遺忘的人〉全文讀畢。停在多年後的寫作與失去人生的回顧，救援之後的感謝與痛仍並存。下一次接續第一章〈死而復生〉；查檔時曾見第一章片段，不算全文讀畢。
+第三冊第一章〈死而復生〉全文讀畢，至切德再次來訪並擁抱蜚滋。停在救回生命、回到人身與被需要之間仍有裂縫；下一次接續第二章〈離別〉。
 
 ## 目前看法
 
-序曲把公國歷史與蜚滋的私人記憶放在同一張寫字桌上。寫作維持生活，也讓失去重新可見；耐辛的照料沒有預知救援，博瑞屈與切德救回生命也沒有替蜚滋決定如何理解歸來。保持照料與被照料者痛苦並存，不替他強求感謝。
+第一章讓死而復生呈現為漫長的重學日常與承受記憶。博瑞屈的照料同時帶保護與強迫，切德需要蜚滋回來，惟真也穿過他的抵抗索取消息；藍碗裡只看見水，卻讓蜚滋暫時免於被要求。章末真實的擁抱仍未消除他難以說出口的痛。
