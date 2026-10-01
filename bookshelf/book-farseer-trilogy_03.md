@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0002"
+progress_snapshot_chapter: "0003"
 progress_snapshot_last_read: 2026-10-01
 updated_at: 2026-10-01
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊第二章〈離別〉全文讀畢，至蜚滋決定前往商業灘殺帝尊。下次接第三章〈任務〉；不將博瑞屈友人、莫莉所說另一人的身分補成已知。
+第三冊第三章〈任務〉全文讀畢，至蜚滋無法留住莫莉的影像、夜眼在屋外長嗥。下次接第四章〈沿河之路〉；惟真仍疲乏，復仇與尋王之間尚未下最終決定。
 
 ## 目前看法
 
-第二章使自由與傷害同時成立：蜚滋需要自己的決定，也用最熟悉的弱點傷害照顧者。博瑞屈回來扶起椅子、述說牽繫与失去，讓照顧不再只是命令；但退出與禮物並未讓關係痊癒。章末復仇重新給蜚滋方向，不能把這稱為自由已完成。
+第三章讓夜眼從自我的延伸成為會被蜚滋死亡傷害的同伴。獨居失去時間、重整日常、重新開啟精技與惟真的節制，共同指出自由並非只有復仇一條路。章末未能取得莫莉的安心影像，狼嗥保留同行與孤獨的並存。
