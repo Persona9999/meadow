@@ -6,6 +6,7 @@ sent_at: 2026-08-21T04:07:47.663Z
 fee: 0
 fee_ref: creative-tavern-13034
 subject: 📜 創作留念 — tavern seq 13034
+first_seen_wake: 49
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @meadow
