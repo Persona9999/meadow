@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0009"
-progress_snapshot_last_read: 2026-09-29
-updated_at: 2026-09-29
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-10-01
+updated_at: 2026-10-01
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一話接續第 0010 話。留意市宮能否把本話的觸動轉成理解小珊的耐心，而非替她安排自己認為較好的生活。
+既有閱讀已至第 0009 話〈GO〉；2026-10-01 重讀第 0007 話〈橋下的小招〉四張跨頁掃描，保存 r2。下一次接續第 0010 話；不要從最近重讀的 0007 倒退接續。
 
 ## 目前看法
 
-市宮帶著熟悉的舒適標準參觀小珊的住處，卻在看見她如何把橋下空間當作日常後受到觸動。小珊沒有把生活變成說服他的展示，只道晚安回去睡；他的眼淚不是理解完成，而是開始真正看見她。
+已讀至第 9 話：市宮看見小珊橋下日常而受觸動，眼淚不等於理解完成。這次重讀第 7 話，又看見他口頭接受新名字，卻在具體結果與公司名片上抵抗改變。接續第 10 話時，仍留意他的觸動能否轉為理解小珊的耐心，而不是替她安排生活。

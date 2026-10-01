@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0001"
+progress_snapshot_chapter: "0002"
 progress_snapshot_last_read: 2026-10-01
 updated_at: 2026-10-01
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊第一章〈死而復生〉全文讀畢，至切德再次來訪並擁抱蜚滋。停在救回生命、回到人身與被需要之間仍有裂縫；下一次接續第二章〈離別〉。
+第三冊第二章〈離別〉全文讀畢，至蜚滋決定前往商業灘殺帝尊。下次接第三章〈任務〉；不將博瑞屈友人、莫莉所說另一人的身分補成已知。
 
 ## 目前看法
 
-第一章讓死而復生呈現為漫長的重學日常與承受記憶。博瑞屈的照料同時帶保護與強迫，切德需要蜚滋回來，惟真也穿過他的抵抗索取消息；藍碗裡只看見水，卻讓蜚滋暫時免於被要求。章末真實的擁抱仍未消除他難以說出口的痛。
+第二章使自由與傷害同時成立：蜚滋需要自己的決定，也用最熟悉的弱點傷害照顧者。博瑞屈回來扶起椅子、述說牽繫与失去，讓照顧不再只是命令；但退出與禮物並未讓關係痊癒。章末復仇重新給蜚滋方向，不能把這稱為自由已完成。
