@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
+progress_snapshot_chapter: "0005"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊第四章〈沿河之路〉全文讀畢，至蜚滋答應與賈許、蜜兒、笛兒同行，夜眼問他又捲入什麼狀況。下次接第五章〈正面衝突〉；胸針失落去向未確認，切德遭懸賞的消息剛傳來，同行承諾尚未經試驗。
+第三冊第五章〈正面衝突〉全文讀畢，至欲意精技襲擊被夜眼打斷，蜚滋在河岸抱住左肩受傷的夜眼，牠提出獵殺威脅者。下次接第六章〈原智和精技〉；笛兒斷臂、賈許豎琴破碎，蜚滋取得實用長劍並將搜得的錢交給賈許，承諾同行至下一城鎮。
 
 
 ## 目前看法
 
-第四章讓上路與創傷同行。夜眼未必理解胸針的紀念意義，卻以靠近與露喉回應蜚滋的失落；河道上的饑餓與侵奪又把私人復仇放回眾人的生活。章末答應保护賈許一行仍伴著抗拒，不能當作痊癒或自主已完成。
+第五章讓保護承諾與同伴牽繫發生衝突。蜚滋的戰鬥並未取消恐懼，救人也未保住所有人的身體與生計；捕魚、照傷與殺戮都經過同一雙手。夜眼救回他，卻也把共同恐懼化為獵殺所有威脅者的理由，我保留對這個方向的不安。
 
