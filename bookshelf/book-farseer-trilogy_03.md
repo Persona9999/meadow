@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0006"
+progress_snapshot_chapter: "0007"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊第六章〈原智和精技〉全文讀畢，至蜚滋與夜眼離開鴉頸鎮洛夫、荷莉的小屋，將在黎明前抵達法洛。下次接第七章〈法洛〉；夜眼左肩傷未癒，已塗博瑞屈藥膏。蜚滋得知原血者社群與心念過於公開的風險，拒絕暫留學習，但收到食物、看護與荷莉和阿霙的求助傳話承諾。
+已讀完第七章〈法洛〉全文；夜眼仍在探索狼群，蜚滋收到原血者警告後独自接近河灣燈火。接續第八章〈商業灘〉。
 
 
 ## 目前看法
 
-第六章讓蜚滋遇見把原智當作生活與傳承的同類。招待和看護確實使他與夜眼睡好一覺，但同類仍有婚配與交換知識的期待，也未必相信他的成長經驗。洛夫提出牽繫在狼群、婚姻與死亡面前的長期問題，讓復仇之外的未來重新可見。
+第七章讓「平等的朋友」從說法變成克制：夜眼有權尋找狼群與伴侶，蜚滋得容許牠走向自己不能陪同的生活。孤獨沒有消失，戰爭與獵捕仍逼近；我想留下他未發出的召喚，而不預先畫團聚。
 
