@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0008"
+progress_snapshot_chapter: "0009"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀完第八章〈商業灘〉全文；蜚滋抵達商業灘、得知吾王廣場情況，開始勘查殿堂周邊，尚未行刺。接續第九章〈刺客〉。
+已讀完第九章〈刺客〉全文；蜚滋逃離商業灘，中午後放箭兒回去，徒步沿溪往找惟真的方向前進。帝尊中毒與馬兒返廄結果未確認。接續第十章〈招募大會〉。
 
 
 ## 目前看法
 
-商業灘的美是真的，守住這份美的人卻被遺忘。吾王廣場把受害者的痛苦變成娛樂與生意，蜚滋對藝術的嚮往也不能替他的復仇免責。我想從殿堂花園的外側看這份繁榮，保留羨慕、距離與不安。
+復仇沒有替蜚滋取回生活；惟真救命的命令也帶著無法拒絕的力量。箭兒的信任讓他逃出城，但阿手的恐懼、被囚動物與未明的毒藥結果仍留下。我想畫他放馬離去的片刻，保留活下來之後尚未完成的事。
 
