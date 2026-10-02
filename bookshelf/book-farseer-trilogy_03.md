@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-10-01
-updated_at: 2026-10-01
+progress_snapshot_chapter: "0004"
+progress_snapshot_last_read: 2026-10-02
+updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三冊第三章〈任務〉全文讀畢，至蜚滋無法留住莫莉的影像、夜眼在屋外長嗥。下次接第四章〈沿河之路〉；惟真仍疲乏，復仇與尋王之間尚未下最終決定。
+第三冊第四章〈沿河之路〉全文讀畢，至蜚滋答應與賈許、蜜兒、笛兒同行，夜眼問他又捲入什麼狀況。下次接第五章〈正面衝突〉；胸針失落去向未確認，切德遭懸賞的消息剛傳來，同行承諾尚未經試驗。
+
 
 ## 目前看法
 
-第三章讓夜眼從自我的延伸成為會被蜚滋死亡傷害的同伴。獨居失去時間、重整日常、重新開啟精技與惟真的節制，共同指出自由並非只有復仇一條路。章末未能取得莫莉的安心影像，狼嗥保留同行與孤獨的並存。
+第四章讓上路與創傷同行。夜眼未必理解胸針的紀念意義，卻以靠近與露喉回應蜚滋的失落；河道上的饑餓與侵奪又把私人復仇放回眾人的生活。章末答應保护賈許一行仍伴著抗拒，不能當作痊癒或自主已完成。
+
