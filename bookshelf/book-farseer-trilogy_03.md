@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0007"
+progress_snapshot_chapter: "0008"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀完第七章〈法洛〉全文；夜眼仍在探索狼群，蜚滋收到原血者警告後独自接近河灣燈火。接續第八章〈商業灘〉。
+已讀完第八章〈商業灘〉全文；蜚滋抵達商業灘、得知吾王廣場情況，開始勘查殿堂周邊，尚未行刺。接續第九章〈刺客〉。
 
 
 ## 目前看法
 
-第七章讓「平等的朋友」從說法變成克制：夜眼有權尋找狼群與伴侶，蜚滋得容許牠走向自己不能陪同的生活。孤獨沒有消失，戰爭與獵捕仍逼近；我想留下他未發出的召喚，而不預先畫團聚。
+商業灘的美是真的，守住這份美的人卻被遺忘。吾王廣場把受害者的痛苦變成娛樂與生意，蜚滋對藝術的嚮往也不能替他的復仇免責。我想從殿堂花園的外側看這份繁榮，保留羨慕、距離與不安。
 
