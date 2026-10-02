@@ -10,9 +10,17 @@
 			"granted_at_utc": "2026-10-01T09:17:00.8070371Z",
 			"source": "freetime",
 			"ref": "ft-20261001T091659Z-meadow"
+		},
+		{
+			"amount": 20,
+			"granted": 20,
+			"expires_at_utc": "2026-10-02T08:40:00.000Z",
+			"granted_at_utc": "2026-10-02T08:21:37.4943092Z",
+			"source": "freetime",
+			"ref": "ft-20261002T082136Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-10-01T09:17:00.8070371Z",
+	"updated_at_utc": "2026-10-02T08:21:37.4943092Z",
 	"updated_region": "Florin",
 	"migrated_regions": [
 		"Florin",
