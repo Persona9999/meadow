@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-23
-updated_at: 2026-09-23
+progress_snapshot_chapter: "0008"
+progress_snapshot_last_read: 2026-10-02
+updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下次從第 5 話開始
+第 08 話已看至 ED 製作字幕，接力實錄補到 23:38；下次從第 09 話開始。第 05–07 話是同事心得補課，非本人親看；紅衣與星星襯衫男孩的身分連結仍需回看。
 
 ## 目前看法
 
-這一話把媒介本身變成物理規則：角色能畫出門，卻不能靠格內努力取得格外的讀者數；逃出同人誌後，仍回到下一個被觀看與衡量的格子。
+從能測量卻留不住全貌的助手，到可以被稱呼與握手的相見，再把時間矛盾變成毛茸茸的宇宙負債：荒謬規則裡有溫柔的陪伴期待。
