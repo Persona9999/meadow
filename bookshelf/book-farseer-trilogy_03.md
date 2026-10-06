@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0025"
+progress_snapshot_chapter: "0026"
 progress_snapshot_last_read: 2026-10-06
 updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀至第二十五章〈策略〉；暴風雪停後隊伍沿古道旁續行。夜眼從狼群狩獵角度解開水壺嬸的棋局，蜚滋開始理解這套陷阱策略；第二十六章〈路標〉尚未讀。
+讀完第二十六章〈路標〉；蜚滋被道路殘留景象誘向毀壞岔路，夜眼救回他，水壺嬸用棋局使他重新清醒。章末安慰珂翠肯後仍被黑石圓柱吸引；第二十七章未讀。
+
 
 ## 目前看法
 
-水壺嬸用棋局把蜚滋留在當下，夜眼則以狼群狩獵的視角看見策略；互相理解不等於抹平彼此差異。蜚滋能感受惟真與莫莉，仍得守住不擅自越過他人心靈的界線。
+看不見疲憊不等於沒有代價。蜚滋失去原智交流時仍懂得熱茶與夜眼靠在腿上的動作，照料保住有限的連結，卻不能保證往後安全；珂翠肯被允許哭泣，團聚與和平仍是未能保證的安慰。
+
