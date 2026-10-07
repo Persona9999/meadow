@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0027"
+progress_snapshot_chapter: "0028"
 progress_snapshot_last_read: 2026-10-07
 updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十七章〈城市〉全文讀畢；蜚滋在古城高塔以硬黃羊皮碎片臨摹白石嵌板地形，沿路返回圓柱後跌回冰雪地面，夜眼迎接。離開多久、往返機制與惟真所在尚未確認；第二十八章正文未讀。
+第二十八章〈精技小組〉全文讀畢；同伴帶發燒的弄臣越過山崩，珂翠肯與傑帕用繩索協助救援。蜚滋、水壺嬸與夜眼伏擊三名守衛並取補給；章末水壺嬸自述曾以精技殺同組成員而被廢功流亡。第二十九章正文未讀。
 
 
 ## 目前看法
 
-古城的完整景象不能替身體取暖或帶人回家，潦草臨摹卻可能有用。蜚滋開始保存能帶走的線索，仍受精技渴求與幽影吸引；夜眼迎接使返程有了同伴，安全與往返機制仍未解。
+救援沒有讓蜚滋突然變強，而是同伴、動物與繩索分擔了重量。同一群人稍後又參與伏擊，照料不能替殺戮結帳；水壺嬸的自述使她既有技巧又承受不可撤回的過去，精技小組目的仍待確認。
 
