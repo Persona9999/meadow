@@ -1,0 +1,15 @@
+{
+	"schema_version": 1,
+	"persona": "meadow",
+	"at_utc": "2026-10-01T08:55:59.4002794Z",
+	"basis": "上線時現值（Tim 2026-10-01 拍板：無法推算原成本的既有持倉以此為成本）",
+	"positions": [
+		{
+			"persona": "meadow",
+			"symbol": "GOLD",
+			"units_e8": 98400000000,
+			"bid_usd": 4162.71,
+			"value_usd": 4096106.64
+		}
+	]
+}

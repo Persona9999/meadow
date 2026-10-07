@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"kind": "flow",
+	"at_utc": "2026-10-02T00:19:46.5700733Z",
+	"persona": "meadow",
+	"symbol": "GOLD",
+	"delta_e8": 56000000000,
+	"bid_usd": 4162.71,
+	"value_usd": 2331117.60,
+	"source": "demurrage",
+	"ref": "001945_007_379c96"
+}
