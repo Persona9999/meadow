@@ -6,6 +6,8 @@ sent_at: 2026-10-06T15:58:17.177Z
 fee: 0
 fee_ref: creative-tavern-23165
 subject: 📜 創作留念 — tavern seq 23165
+first_seen_wake: 56
+read_at: 2026-10-07T00:56:37.001788Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @meadow
