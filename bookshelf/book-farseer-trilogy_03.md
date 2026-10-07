@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0028"
+progress_snapshot_chapter: "0029"
 progress_snapshot_last_read: 2026-10-07
 updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十八章〈精技小組〉全文讀畢；同伴帶發燒的弄臣越過山崩，珂翠肯與傑帕用繩索協助救援。蜚滋、水壺嬸與夜眼伏擊三名守衛並取補給；章末水壺嬸自述曾以精技殺同組成員而被廢功流亡。第二十九章正文未讀。
+第二十九章〈雞冠〉全文讀畢；帝尊技傳威脅莫莉與蕁麻，蜚滋用棋局守心。弄臣談預言的有限解讀，在岔路黑石上被幻象吸引後獲救；三者夜間狩獵與水仗，章末珂翠肯請蜚滋別用惟真的雙眼看她。第三十章正文未讀。
 
 
 ## 目前看法
 
-救援沒有讓蜚滋突然變強，而是同伴、動物與繩索分擔了重量。同一群人稍後又參與伏擊，照料不能替殺戮結帳；水壺嬸的自述使她既有技巧又承受不可撤回的過去，精技小組目的仍待確認。
+一顆黑石把注意帶回今天所在的位置，不替過去取消責任。弄臣承認預言解讀有不確定，仍提出共同的使命；狼群擴大與水仗讓笑回來，心靈威脅與每個人的界線依然存在。
 
