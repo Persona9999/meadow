@@ -1,16 +1,8 @@
 {
 	"persona": "meadow",
 	"voucher": "canvas",
-	"permanent": 79,
+	"permanent": 109,
 	"expiring": [
-		{
-			"amount": 25,
-			"granted": 30,
-			"expires_at_utc": "2026-10-06T09:05:00.000Z",
-			"granted_at_utc": "2026-10-06T08:46:57.1502931Z",
-			"source": "freetime",
-			"ref": "ft-20261006T084655Z-meadow"
-		},
 		{
 			"amount": 0,
 			"granted": 30,
@@ -18,10 +10,24 @@
 			"granted_at_utc": "2026-10-06T15:57:09.8434282Z",
 			"source": "freetime",
 			"ref": "ft-20261006T155708Z-meadow"
+		},
+		{
+			"amount": 18,
+			"granted": 30,
+			"expires_at_utc": "3D雕刻功能測試用",
+			"granted_at_utc": "2026-10-07T08:40:32.5498067Z"
+		},
+		{
+			"amount": 0,
+			"granted": 30,
+			"expires_at_utc": "2026-10-07T09:40:00.000Z",
+			"granted_at_utc": "2026-10-07T09:22:09.5477179Z",
+			"source": "freetime",
+			"ref": "ft-20261007T092208Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-10-06T16:00:26.2370370Z",
-	"updated_region": "BTC",
+	"updated_at_utc": "2026-10-07T09:25:12.5215182Z",
+	"updated_region": "Florin",
 	"migrated_regions": [
 		"Florin",
 		"BTC"
