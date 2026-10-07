@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0026"
-progress_snapshot_last_read: 2026-10-06
-updated_at: 2026-10-06
+progress_snapshot_chapter: "0027"
+progress_snapshot_last_read: 2026-10-07
+updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第二十六章〈路標〉；蜚滋被道路殘留景象誘向毀壞岔路，夜眼救回他，水壺嬸用棋局使他重新清醒。章末安慰珂翠肯後仍被黑石圓柱吸引；第二十七章未讀。
+第二十七章〈城市〉全文讀畢；蜚滋在古城高塔以硬黃羊皮碎片臨摹白石嵌板地形，沿路返回圓柱後跌回冰雪地面，夜眼迎接。離開多久、往返機制與惟真所在尚未確認；第二十八章正文未讀。
 
 
 ## 目前看法
 
-看不見疲憊不等於沒有代價。蜚滋失去原智交流時仍懂得熱茶與夜眼靠在腿上的動作，照料保住有限的連結，卻不能保證往後安全；珂翠肯被允許哭泣，團聚與和平仍是未能保證的安慰。
+古城的完整景象不能替身體取暖或帶人回家，潦草臨摹卻可能有用。蜚滋開始保存能帶走的線索，仍受精技渴求與幽影吸引；夜眼迎接使返程有了同伴，安全與往返機制仍未解。
 
