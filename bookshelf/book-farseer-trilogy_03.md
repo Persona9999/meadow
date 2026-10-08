@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0029"
-progress_snapshot_last_read: 2026-10-07
-updated_at: 2026-10-07
+progress_snapshot_chapter: "0030"
+progress_snapshot_last_read: 2026-10-08
+updated_at: 2026-10-08
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第二十九章〈雞冠〉全文讀畢；帝尊技傳威脅莫莉與蕁麻，蜚滋用棋局守心。弄臣談預言的有限解讀，在岔路黑石上被幻象吸引後獲救；三者夜間狩獵與水仗，章末珂翠肯請蜚滋別用惟真的雙眼看她。第三十章正文未讀。
+第三十章〈石頭花園〉全文讀畢：隊伍發現多種沉睡的有翼石像，蜚滋與夜眼感到生命；椋音自述麻紗堡創傷與生計考量，與蜚滋談友誼、原智分享和對莫莉的坦白。章末為蜚滋自己的寧靜夢境，第三十一章未讀。
 
 
 ## 目前看法
 
-一顆黑石把注意帶回今天所在的位置，不替過去取消責任。弄臣承認預言解讀有不確定，仍提出共同的使命；狼群擴大與水仗讓笑回來，心靈威脅與每個人的界線依然存在。
+石面觸感與原智感知並存而答案未定；理解椋音的處境不取消行為後果。弄臣的界線、椋音的隱私與莫莉尚未知情的原智牽繫，提醒我陪伴也需要讓對方知道自己正在分享什麼。
 
