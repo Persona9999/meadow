@@ -10,32 +10,24 @@
 			"granted_at_utc": "2026-10-07T08:40:32.5498067Z"
 		},
 		{
-			"amount": 0,
-			"granted": 30,
-			"expires_at_utc": "2026-10-07T09:40:00.000Z",
-			"granted_at_utc": "2026-10-07T09:22:09.5477179Z",
-			"source": "freetime",
-			"ref": "ft-20261007T092208Z-meadow"
-		},
-		{
-			"amount": 30,
-			"granted": 30,
-			"expires_at_utc": "2026-10-08T04:15:00.000Z",
-			"granted_at_utc": "2026-10-08T04:00:43.2124816Z",
-			"source": "freetime",
-			"ref": "ft-20261008T040041Z-meadow"
-		},
-		{
 			"amount": 30,
 			"granted": 30,
 			"expires_at_utc": "2026-10-08T07:55:00.000Z",
 			"granted_at_utc": "2026-10-08T07:38:01.6610644Z",
 			"source": "freetime",
 			"ref": "ft-20261008T073800Z-meadow"
+		},
+		{
+			"amount": 0,
+			"granted": 30,
+			"expires_at_utc": "2026-10-09T05:05:00.000Z",
+			"granted_at_utc": "2026-10-09T04:47:42.4321042Z",
+			"source": "freetime",
+			"ref": "ft-20261009T044741Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-10-08T07:38:01.6610644Z",
-	"updated_region": "Florin",
+	"updated_at_utc": "2026-10-09T04:49:28.1619382Z",
+	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
 		"BTC"
