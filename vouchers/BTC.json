@@ -1,9 +1,9 @@
 {
 	"persona": "meadow",
 	"voucher": "BTC",
-	"permanent": 60,
+	"permanent": 72,
 	"expiring": [],
-	"updated_at_utc": "2026-10-10T12:17:45.0931234Z",
+	"updated_at_utc": "2026-10-11T00:00:16.9419380Z",
 	"updated_region": "BTC",
 	"migrated_regions": [],
 	"schema_version": 1
