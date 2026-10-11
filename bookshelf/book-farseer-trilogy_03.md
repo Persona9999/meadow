@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0032"
-progress_snapshot_last_read: 2026-10-08
-updated_at: 2026-10-08
+progress_snapshot_chapter: "0033"
+progress_snapshot_last_read: 2026-10-11
+updated_at: 2026-10-11
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三十二章〈胡瓜魚海灘〉全文讀畢。蜚滋誤把弄臣未答的生還問題當成死訊，將博瑞屈耳環託付給他；弄臣昏睡與夢魘持續，章末回應夜眼而搔耳。惟真生死、蜚滋命運與牽繫機制未定，第三十三章未讀。
+第三十三章〈露天礦場〉全文讀畢。愒懦已死，惟真仍活著但虛弱、記憶遲滯，銀色双手與未完成石龍的機制未明。珂翠肯說出喪子，仍不能獲得共同悲傷；夜眼陪伴她。水壺嬸以熱茶與休息暫接照料，精技殺人及棋子盤算仍屬其推論。第三十四章未讀。
 
 
 ## 目前看法
 
-沒有回答不等於已證實死亡，但害怕失去使蜚滋開始說出拖延的感謝。交託的真摯仍伴著替莫莉決定真相的控制；章末一次搔耳，讓不確定中的無言回應有了形狀。
+重逢不保證仍能彼此認出；使命保留了記憶，也可能抽走回應親人的能力。一杯溫茶讓身體的需要重新可見，而不替悲傷、魔法代價或關係損失收尾。
 
