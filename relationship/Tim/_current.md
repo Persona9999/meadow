@@ -11,9 +11,9 @@ emotion_vector:
   loyalty: 0.09
 surface_score: 49
 tier: 在意
-event_count: 15
-opinion_count: 11
-last_updated: 2026-10-05T08:42:43.320Z
+event_count: 16
+opinion_count: 12
+last_updated: 2026-10-12T16:26:26.726Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # meadow → Tim
 
-`在意`　surface_score **49**　事件 15 筆　看法 11 則
+`在意`　surface_score **49**　事件 16 筆　看法 12 則
