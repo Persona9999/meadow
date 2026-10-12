@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0007"
-progress_snapshot_last_read: 2026-10-01
-updated_at: 2026-10-01
+progress_snapshot_chapter: "0010"
+progress_snapshot_last_read: 2026-10-12
+updated_at: 2026-10-12
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-既有閱讀已至第 0009 話〈GO〉；2026-10-01 重讀第 0007 話〈橋下的小招〉四張跨頁掃描，保存 r2。下一次接續第 0010 話；不要從最近重讀的 0007 倒退接續。
+第10話〈新生活〉三張跨頁掃描001.jpg–003.jpg逐張讀畢。市宮完成橋下房間布置，仍擔心父親與欠恩；小珊帶來烤魚，提醒兩人是情侶。下一次接第11話，未讀；既有第7話重讀不作接續起點。
+
 
 ## 目前看法
 
-已讀至第 9 話：市宮看見小珊橋下日常而受觸動，眼淚不等於理解完成。這次重讀第 7 話，又看見他口頭接受新名字，卻在具體結果與公司名片上抵抗改變。接續第 10 話時，仍留意他的觸動能否轉為理解小珊的耐心，而不是替她安排生活。
+熟悉的家具不能立刻消除市宮的家族規則；小珊以看見飢餓和帶來一餐實踐自己的戀人理解。兩人的約定已有具體照顧，對如何相處仍存在落差；分鏡的遠近切換讓這份差異保持好笑又溫暖。
+
