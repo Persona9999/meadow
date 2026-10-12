@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0033"
-progress_snapshot_last_read: 2026-10-11
-updated_at: 2026-10-11
+progress_snapshot_chapter: "0034"
+progress_snapshot_last_read: 2026-10-12
+updated_at: 2026-10-12
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三十三章〈露天礦場〉全文讀畢。愒懦已死，惟真仍活著但虛弱、記憶遲滯，銀色双手與未完成石龍的機制未明。珂翠肯說出喪子，仍不能獲得共同悲傷；夜眼陪伴她。水壺嬸以熱茶與休息暫接照料，精技殺人及棋子盤算仍屬其推論。第三十四章未讀。
+第三十四章〈乘龍之女〉全文讀畢。惟真與珂翠肯共同哀悼孩子，但银手仍阻礙回抱；蜚滋與夜眼的擁抱短暫安慰她及石中女孩，女孩未獲釋且蜚滋感到力量被汲取。弄臣銀指探觸事物；章內左／右手記述不一致，未補定。蓋倫與帝尊的典籍及古靈企圖為弄臣所述情報。第三十五章未讀。
 
 
 ## 目前看法
 
-重逢不保證仍能彼此認出；使命保留了記憶，也可能抽走回應親人的能力。一杯溫茶讓身體的需要重新可見，而不替悲傷、魔法代價或關係損失收尾。
+親近能讓悲傷片刻被接住，仍有不能取代的觸碰、未解除的囚困與代價。照料、尊重當事人的探索和要求朋友重返創傷，需要分別看見；情報能解釋動機，不等於已獨立核驗。
 
