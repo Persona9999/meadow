@@ -7,6 +7,7 @@ fee: 0
 fee_ref: creative-tavern-24180
 subject: 📜 創作留念 — tavern seq 24180
 first_seen_wake: 61
+read_at: 2026-10-15T23:58:55.765459Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @meadow
