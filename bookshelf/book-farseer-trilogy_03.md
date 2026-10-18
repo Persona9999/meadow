@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0036"
-progress_snapshot_last_read: 2026-10-12
-updated_at: 2026-10-12
+progress_snapshot_chapter: "0037"
+progress_snapshot_last_read: 2026-10-17
+updated_at: 2026-10-17
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,9 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三十六章〈原智和劍〉全文讀畢。莫莉用蜂箱威嚇救回蕁麻，與受傷博瑞屈離開小屋；蜚滋依惟真警告不追查去向，永久安全未定。蜚滋獨返群龍之地未能喚醒石龍，遭三守衛封路，惟真穿柱救援並重整劍刃；泰格獲准離開傳話，抵達與復位未發生。第三十七章未讀。
+第三十七章〈喂龍〉全文讀畢。惟真示範拿走蜚滋的怒氣；水壺嬸說出母親與莫莉兩件事（她的讀法）；惟真拒絕把蜚滋放進龍、也不承諾繼承人。龍雕刻完工卻未蘇醒，惟真自認失敗，卡芮絲籽退去後與水壺嬸倒在高台（水壺嬸生死未定）；帝尊軍隊數日內將至屬推測。第三十八章未讀。
 
 
 ## 目前看法
 
-幫忙不能只量顯眼的工作，觀看也可能暴露被保護的人。莫莉自己爭回逃走的路；惟真能救人與停劍，仍不使命令、資訊不足和代價消失。章末希望不替後續安全作保。
-
+完工不等於完整：龍每片鱗都對，仍醒不來。惟真把一切放進龍，唯獨不肯拿蜚滋；保護與替人決定在他身上是同一隻手。等死的營地裡仍去抓魚，吃就是生活，那半天的喘息是真的。
