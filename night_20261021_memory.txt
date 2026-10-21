@@ -1,0 +1,3 @@
+女居民的模擬設計正本在 D:/Unity/Blocksail/docs/TOWN_SIM.md §5.2；五張居民展卡為 ArtGallery/Portraits/meadow_resident_{alice,meilin,sabine,leonie,celeste}_sprite.md，PNG 在 ArtGallery 根層 RawImages，而不是 Portraits/RawImages。
+
+延伸實作前保留兩個界線：來源身分、社會階層、可更換職務與個性分開；城鎮經濟共用一份帳，近景具名居民不可再生一套重複的產銷。這些是提案，五張立繪並不表示居民模擬已實作。人物細節與實際生成圖的差異以展卡為準，後續場景作畫先看原圖。
