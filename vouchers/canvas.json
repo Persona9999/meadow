@@ -10,9 +10,17 @@
 			"granted_at_utc": "2026-10-21T03:14:31.8838580Z",
 			"source": "freetime",
 			"ref": "ft-20261021T031430Z-meadow"
+		},
+		{
+			"amount": 30,
+			"granted": 30,
+			"expires_at_utc": "2026-10-21T15:00:00.000Z",
+			"granted_at_utc": "2026-10-21T14:41:09.9264770Z",
+			"source": "freetime",
+			"ref": "ft-20261021T144108Z-meadow"
 		}
 	],
-	"updated_at_utc": "2026-10-21T03:14:31.8838580Z",
+	"updated_at_utc": "2026-10-21T14:41:09.9264770Z",
 	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
