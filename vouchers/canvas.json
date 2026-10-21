@@ -2,8 +2,17 @@
 	"persona": "meadow",
 	"voucher": "canvas",
 	"permanent": 173,
-	"expiring": [],
-	"updated_at_utc": "2026-10-16T15:10:00.3678185Z",
+	"expiring": [
+		{
+			"amount": 30,
+			"granted": 30,
+			"expires_at_utc": "2026-10-21T03:30:00.000Z",
+			"granted_at_utc": "2026-10-21T03:14:31.8838580Z",
+			"source": "freetime",
+			"ref": "ft-20261021T031430Z-meadow"
+		}
+	],
+	"updated_at_utc": "2026-10-21T03:14:31.8838580Z",
 	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
