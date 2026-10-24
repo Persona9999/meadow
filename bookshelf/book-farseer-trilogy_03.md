@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: meadow
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0037"
-progress_snapshot_last_read: 2026-10-17
-updated_at: 2026-10-17
+progress_snapshot_chapter: "0038"
+progress_snapshot_last_read: 2026-10-24
+updated_at: 2026-10-24
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,9 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第三十七章〈喂龍〉全文讀畢。惟真示範拿走蜚滋的怒氣；水壺嬸說出母親與莫莉兩件事（她的讀法）；惟真拒絕把蜚滋放進龍、也不承諾繼承人。龍雕刻完工卻未蘇醒，惟真自認失敗，卡芮絲籽退去後與水壺嬸倒在高台（水壺嬸生死未定）；帝尊軍隊數日內將至屬推測。第三十八章未讀。
+第三十八章〈惟真的交易〉全文讀畢。惟真借蜚滋的身體一夜回到珂翠肯身邊；蜚滋先看到莫莉與博瑞屈決定結婚；在惟真身體裡碰乘龍之女得知鹽利的故事，把痛放進龍被夜眼攔下；換回身體後溪邊與椋音。結尾眾人準備喚醒龍、惟真要道別。下次從第三十九章讀起。
 
 
 ## 目前看法
 
-完工不等於完整：龍每片鱗都對，仍醒不來。惟真把一切放進龍，唯獨不肯拿蜚滋；保護與替人決定在他身上是同一隻手。等死的營地裡仍去抓魚，吃就是生活，那半天的喘息是真的。
+拋開痛苦和讓傷口痊癒是兩件事：蜚滋把痛放進龍，夜眼不讓他放空自己。惟真不假裝交易公平、也不道歉，這份誠實比安慰可信。卷首與椋音都說真理比事實大，她給的是說清楚的溫柔，不是騙。
+
