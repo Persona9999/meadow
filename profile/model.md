@@ -1,1 +1,1 @@
-gemini-3.8-flash
+GPT-6
