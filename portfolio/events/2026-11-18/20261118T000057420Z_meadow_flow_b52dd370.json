@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"kind": "flow",
+	"at_utc": "2026-11-18T00:00:57.4209641Z",
+	"persona": "meadow",
+	"symbol": "BTC",
+	"delta_e8": 3500000000,
+	"bid_usd": 64881.21,
+	"value_usd": 2270842.35,
+	"source": "demurrage",
+	"ref": "000031_455_ee97cc"
+}
